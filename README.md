@@ -1,1 +1,1 @@
-This project was done for the University of Pennsylvania Data Analytics Bootcamp using Python and the libraries Pandas and Scikit-Learn working in a Jupyter Notebook.
+This project was done for the University of Pennsylvania Data Analytics Bootcamp using Python and the libraries Pandas and Scikit-Learn working in a Jupyter Notebook. The goal of the project was to explore how two different supervised machine learning models would perform when using loan data to predict credit risk. 
